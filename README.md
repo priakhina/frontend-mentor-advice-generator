@@ -1,12 +1,38 @@
-# React + Vite
+# Frontend Mentor - Advice generator app solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db).
 
-Currently, two official plugins are available:
+## Table of contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Solution link](#solution-link)
+  - [Built with](#built-with)
+- [Author](#author)
 
-## Expanding the ESLint configuration
+## Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Generate a new piece of advice by clicking the dice icon
+
+### Solution link
+
+Live site URL: [https://kseniia-priakhina-advice-generator.netlify.app/](https://kseniia-priakhina-advice-generator.netlify.app/)
+
+
+### Built with
+
+- [React](https://reactjs.org/) - an open-source JavaScript library for building user interfaces
+- [Tailwind CSS](https://tailwindcss.com/) - an open-source CSS framework
+- [Advice Slip API](https://api.adviceslip.com) - a free public API that provides access to a collection of advice snippets
+
+## Author
+
+- Frontend Mentor - [@priakhina](https://www.frontendmentor.io/profile/priakhina)
+- LinkedIn - [@kseniia-priakhina](https://www.linkedin.com/in/kseniia-priakhina)
+
