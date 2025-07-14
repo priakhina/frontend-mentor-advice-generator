@@ -7,6 +7,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Solution link](#solution-link)
+  - [Solution screenshots](#solution-screenshots)
   - [Built with](#built-with)
 - [Author](#author)
 
@@ -24,6 +25,22 @@ Users should be able to:
 
 Live site URL: [https://kseniia-priakhina-advice-generator.netlify.app/](https://kseniia-priakhina-advice-generator.netlify.app/)
 
+### Solution screenshots
+
+<table>
+  <thead>
+    <tr>
+      <th>Desktop view</td>
+      <th>Mobile view</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="70%"><img src="/src/assets/screenshots/advice-generator-desktop-view.png" width="100%" height="auto"></td>
+      <td width="30%"><img src="/src/assets/screenshots/advice-generator-mobile-view.png" width="100%" height="auto"></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Built with
 
