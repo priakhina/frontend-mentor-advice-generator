@@ -1,1 +1,22 @@
 @import 'tailwindcss';
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+body {
+  font-family: 'Manrope', sans-serif;
+  font-size: 28px;
+  font-weight: 500;
+  background: #202733;
+}
+
+.loading-spinner {
+  border: 6px solid transparent;
+  border-top: 6px solid #53ffaa;
+  border-radius: 50%;
+  animation: spin 0.8s infinite linear;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,5 +1,11 @@
-function App() {
-  return <h1>Vite + React</h1>;
-}
+import AdviceCard from './components/AdviceCard';
+
+const App = () => {
+  return (
+    <div className='h-screen flex justify-center items-center'>
+      <AdviceCard />
+    </div>
+  );
+};
 
 export default App;
